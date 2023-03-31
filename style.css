@@ -1,0 +1,45 @@
+h3{
+    
+     text-align: center; 
+     font-family: 'Times New Roman', Times, serif;
+    margin: 4rem 0 1.68rem 0; 
+
+}
+form{
+    text-align: center;  
+}
+
+.claseFormulario{
+ 
+  padding-bottom: 20px; 
+  background-color: wheat;
+}
+
+#botonIdEnvio{
+    font-size:23px;
+    background-color: lightblue;
+}
+
+td, th {
+    border:solid rgb(37, 135, 94) 2px;
+    padding: 10px;
+    text-align: center; 
+    }
+
+    .tableFormat table {
+        margin: 20px auto;  
+       
+    }
+
+    h4{
+        text-align: center; 
+    }
+
+    #divForm{
+
+        margin-top: 50px;
+    }
+
+    #table{
+        margin-top: 40px;
+    }
